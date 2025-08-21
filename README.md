@@ -168,5 +168,5 @@ Several tools can facilitate the implementation of CI/CD pipelines:
 
 By implementing a CI/CD pipeline using these tools, the project can achieve greater efficiency, reliability, and quality in its development process.
 
-_ **Contact** Tranos Taruvinga
+**Contact** Tranos Taruvinga
 
